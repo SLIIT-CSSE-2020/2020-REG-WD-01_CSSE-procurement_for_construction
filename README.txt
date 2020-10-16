@@ -1,1 +1,0 @@
-Group ID: 2020-REG-WD-01
