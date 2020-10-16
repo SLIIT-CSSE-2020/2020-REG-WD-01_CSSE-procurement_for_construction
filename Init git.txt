@@ -1,0 +1,13 @@
+This is readme
+
+
+npx create-react-app <appName>
+
+mongo db community server download kala
+
+Run mongodb
+
+path
+
+1 -> mongod
+2 -> mongo
